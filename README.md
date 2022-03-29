@@ -3,11 +3,13 @@ I am Giacomo and I am passionate about technology and innovation 🤖. I am curo
 I love the nature ⛰️ and I like to spend my free time travelling ✈️ or doing sports. I am passionate about athletics 🏃, alpine sports ⛷️ and sailing ⛵.
 ## My studies
 Currently I am a student of computer science enrolled in the double MSCs degree at the European institute of Innovation and Technology (EIT) 🇪🇺. I will spend my first year studying at Politecnico di Milano (POLIMI) 🇮🇹 , while the second year I will study at the Université Côte d'Azur (UCA) 🇫🇷. Through this path I will learn the major techniques for machine learning and data science, but also I will build entrepreneurial and managerial skills.
-*Major*
-* Data Science
-* Multimedia and Web Technologies for Big Data
-*Minor*
-* Innovation and Entrepreneurship
+
+**Major**
+- Data Science
+- Multimedia and Web Technologies for Big Data
+- 
+**Minor**
+- Innovation and Entrepreneurship
 ## My skills
 ### Currently mastering
 
