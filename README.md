@@ -7,7 +7,6 @@ Currently I am a student of computer science enrolled in the double MSCs degree 
 **Major**
 - Data Science
 - Multimedia and Web Technologies for Big Data
-- 
 **Minor**
 - Innovation and Entrepreneurship
 ## My skills
