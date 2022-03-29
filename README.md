@@ -1,6 +1,11 @@
-### Hi there 👋
+# About me
+I am Giacomo and I am passionate about technology and innovation. I am curoius and I spend most of the time learning new things and developing lots of projects.
+I love the nature and I like to spend my free time travelling or doing sports. I am passionate about athletics, alpine sports and sailing.
+## My skills
+### Currently mastering
 
 <!--
+### Hi there 👋
 **pizzmile/pizzmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
